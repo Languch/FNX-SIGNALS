@@ -1,0 +1,6 @@
+{
+  "name": "Quotex Signal Bot - Realtime Call/Put Predictor",
+  "description": "High-accuracy realtime binary options signal bot for Quotex OTC markets with pre-alerts, voice announcements, multi-pair scanner, and Telegram VIP bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

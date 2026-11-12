@@ -1,0 +1,602 @@
+[
+  {
+    "key": "FNX-JKK2-SMSZ-FU83",
+    "boundIp": "127.0.0.1",
+    "activatedAt": 1794488845384,
+    "status": "active"
+  },
+  {
+    "key": "FNX-F2XN-UR6S-Y3TU",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-Q2Z4-BZUZ-LRGP",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-RYX2-VLGT-FW35",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-WJF3-RWME-EY2N",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-662P-WLP7-47Y5",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-2KUE-GJ3Q-2RU7",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-CHW9-JVGX-FGUM",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-SQJ7-T4QU-3MH2",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-FVH9-PVEW-CNPD",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-XKAT-Q5M6-V859",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ZQXW-JJK8-YFRG",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-5YD7-EGTB-T2FL",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-4MDL-4B36-GCS3",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-GS2R-FJ5Y-29SV",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-KAEQ-88ST-UFV9",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-UQXQ-E6DC-8HW2",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-Q86Q-63BY-2TDM",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-CTRS-47PK-HYBM",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ZGS7-YNWG-MU88",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-F93Q-4EL9-DJJV",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-JABJ-FBTU-GVF3",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-VVNU-HVP3-GSAE",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-4G3M-CZWK-DZKX",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-QT6N-82EK-KXWF",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-HT89-BHFG-RGJP",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-K7DC-2YUW-WEYU",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-BXTR-NVK4-NLCT",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-RZML-3DYJ-K77B",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-K4H3-HAP2-6ZWL",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-VKVH-HAB4-R3Z9",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-YYQW-SPQP-ACF6",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-LR3W-8CDM-2X2U",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-TVZ3-PFDJ-V8JD",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-SQ6C-B484-N2KR",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-J5CY-MYPB-XL9G",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-E3P6-32PV-TKNB",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-VSK4-LWV9-A7L9",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-2E7C-PZL8-79SE",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-AZVV-S6Y4-BM7S",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ME3J-2PP3-3DP2",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-QBVB-YRUA-EH6J",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ME7X-VTPQ-4KK3",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-44UX-RRB7-X6QC",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-FCW8-9C3C-Q98K",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-XQ4Q-Q5DV-35KN",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-FM8L-HCNZ-3KLA",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-NMVA-YJ4D-4ZYV",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-MQTQ-YZEM-X26W",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-79LT-TDCJ-3M5H",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-AGKN-73MX-7ZCV",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-KKB4-Y63A-2GZM",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-Y79A-52HF-SZ9W",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-L32S-TGJV-XAE2",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ZHUF-TKJX-GZWD",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-8CNS-SQXJ-QUKJ",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-FXV6-EKJU-AHA8",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-UKYF-YYAR-SCPY",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-GK42-2DZU-DJCB",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-H3DQ-RKBJ-QRGV",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-55P5-SVL4-6AMN",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-3EKN-448V-JMDF",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-X2DG-LHQU-DTKY",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-3393-L9CQ-5ZSJ",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-JZDF-QZCJ-MP77",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-GLPE-X4KG-8ZFU",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-B84E-HAND-P33Z",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-MNVA-BKG4-9KYW",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-G74M-UVMH-D98L",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-YZNW-3BSX-XHD7",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-LTR2-EESU-7U5F",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-JAXL-AXJX-EYAN",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-TVEL-PHSP-U6VK",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-G52V-S7NJ-ETPE",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-GJCY-7DF7-N584",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-7UDC-BRX9-YLL7",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-X77U-5T6B-C5AR",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-SL96-SKQL-DL4Y",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-6HTA-ALYM-J9LK",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-A84E-RUQN-4AD9",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-T733-5545-23SG",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-Q97J-W49W-BCNP",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-EYZH-UQG7-NTEQ",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-GLK4-DLBX-SQW5",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-38N3-Y6ZM-U5EQ",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-74BL-HCLN-KXFN",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-C6BP-P8RC-UF7Z",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-9DVY-D3U9-RYM9",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-RB9J-2ZJS-2PMC",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-XQVL-D3K2-5WN4",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-N4VP-YCCS-JCB7",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-K78D-CWET-54ST",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-UK8D-NYT5-BAB2",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-HSKX-RFMG-ENGE",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-ZMKJ-2SQU-7JFB",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-3V79-J6ZH-R6HA",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-K2WJ-D3S7-U63X",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-EQNK-D7K3-8248",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-U5FX-PXAK-VQW8",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  },
+  {
+    "key": "FNX-N5NL-7YCQ-R2FE",
+    "boundIp": null,
+    "activatedAt": null,
+    "status": "unclaimed"
+  }
+]
